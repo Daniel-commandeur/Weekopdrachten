@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Weekopdracht1.Business\Weekopdracht1.Business.csproj" />
+    <ProjectReference Include="..\Weekopdracht1.Data\Weekopdracht1.Data.csproj" />
+  </ItemGroup>
+
+</Project>
